@@ -1,0 +1,1 @@
+Write one line, at most 180 characters: the funniest excuse an AI agent could give after it breaks production. The excuse must have one named character/hook.
